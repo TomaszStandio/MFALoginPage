@@ -54,3 +54,4 @@ Logout from website
     Login to website
     Sign off from website
     Login page is loaded
+    Close Browser
